@@ -10,7 +10,7 @@ A Streamlit analytics dashboard for the RYC 2026 planning committee, providing r
 
 ## 🚀 Live App
 
-🔗 **[https://YOUR-APP-NAME.streamlit.app](https://YOUR-APP-NAME.streamlit.app)**  
+🔗 **[https://rycdashboard.streamlit.app](https://rycdashboard.streamlit.app)**  
 *(Replace with your actual Streamlit Community Cloud URL after deployment)*
 
 **Admin Password:** `RYC2026@Admin`
@@ -50,7 +50,7 @@ ryc-dashboard/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR-USERNAME/ryc-dashboard.git
+git clone https://github.com/rycdashboard/ryc-dashboard.git
 cd ryc-dashboard
 ```
 
