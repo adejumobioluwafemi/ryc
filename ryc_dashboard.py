@@ -1,6 +1,6 @@
 """
 RYC 2026 – Planning Committee Dashboard
-Redeemed Youth Convention · Moscow · April 30 – May 3, 2026
+REVIVE Youth Convention · Moscow · April 30 – May 3, 2026
 """
 import os
 from dotenv import load_dotenv
@@ -309,7 +309,7 @@ def show_login():
             <div style='font-size:2.8rem'>✝️</div>
             <h2 style='color:#0f3460;margin:6px 0 2px'>RYC 2026</h2>
             <p style='color:#888;font-size:.88rem'>
-                Redeemed Youth Convention<br>Moscow · Apr 30 – May 3, 2026
+                Revive Youth Convention<br>Moscow · Apr 30 – May 3, 2026
             </p>
             <hr style='margin:18px 0'>
             <p style='color:#555;font-weight:600;margin-bottom:4px'>

@@ -1,6 +1,6 @@
 # ✝️ RYC 2026 — Planning Committee Dashboard
 
-> **Redeemed Youth Convention 2026**  
+> **Revive Youth Convention 2026**  
 > Redeemed Christian Church of God, Russia  
 > 📍 Moscow · 🗓️ April 30 – May 3, 2026
 
