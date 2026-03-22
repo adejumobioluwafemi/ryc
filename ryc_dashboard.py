@@ -2,7 +2,10 @@
 RYC 2026 – Planning Committee Dashboard
 Redeemed Youth Convention · Moscow · April 30 – May 3, 2026
 """
+import os
+from dotenv import load_dotenv
 
+load_dotenv() 
 import re
 import streamlit as st
 import pandas as pd
@@ -65,8 +68,8 @@ div[data-testid="stButton"] button:hover { opacity:.85; }
 """, unsafe_allow_html=True)
 
 # ── Constants ─────────────────────────────────────────────────────────────────
-ADMIN_PASSWORD = "RYC2026@Admin"
-SHEET_ID       = "1Gh9Hx9OmGEnokw6htzcPzIumUECCQmJPSuMTJLftDP4"
+ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "")
+SHEET_ID       = os.getenv("SHEET_ID", "")
 REG_FEE        = 8_000.0
 
 BRAND = ["#0f3460","#e94560","#06d6a0","#ffd166","#533483",

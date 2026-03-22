@@ -12,7 +12,7 @@ A Streamlit analytics dashboard for the RYC 2026 planning committee, providing r
 
 🔗 **[https://rycdashboard.streamlit.app](https://rycdashboard.streamlit.app)**  
 
-**Admin Password:** `RYC2026@Admin`
+**Admin Password:** `RYC2026@`
 
 ---
 
