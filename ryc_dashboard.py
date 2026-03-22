@@ -340,7 +340,7 @@ def show_dashboard(df):
     <div style='background:linear-gradient(135deg,#1a1a2e 0%,#0f3460 60%,#533483 100%);
                 color:white;padding:22px 28px;border-radius:14px;margin-bottom:18px'>
         <h1 style='margin:0;font-size:1.7rem;letter-spacing:.4px'>
-            ✝️ Redeemed Youth Convention 2026
+            ✝️ REVIVE Youth Convention 2026
         </h1>
         <p style='margin:4px 0 0;opacity:.75;font-size:.9rem'>
             RCCG Russia · Moscow · April 30 – May 3, 2026
